@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\0_Huchani_HolaMundo\0_Huchani_HolaMundo\bin\Debug\0_Huchani_HolaMundo.exe.config
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\0_Huchani_HolaMundo\0_Huchani_HolaMundo\bin\Debug\0_Huchani_HolaMundo.exe
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\0_Huchani_HolaMundo\0_Huchani_HolaMundo\bin\Debug\0_Huchani_HolaMundo.pdb
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\0_Huchani_HolaMundo\0_Huchani_HolaMundo\obj\Debug\0_Huchani_HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\0_Huchani_HolaMundo\0_Huchani_HolaMundo\obj\Debug\0_Huchani_HolaMundo.exe
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\0_Huchani_HolaMundo\0_Huchani_HolaMundo\obj\Debug\0_Huchani_HolaMundo.pdb

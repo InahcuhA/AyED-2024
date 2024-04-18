@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\1_Huchani_HolaNombre\1_Huchani_HolaNombre\bin\Debug\1_Huchani_HolaNombre.exe.config
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\1_Huchani_HolaNombre\1_Huchani_HolaNombre\bin\Debug\1_Huchani_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\1_Huchani_HolaNombre\1_Huchani_HolaNombre\bin\Debug\1_Huchani_HolaNombre.pdb
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\1_Huchani_HolaNombre\1_Huchani_HolaNombre\obj\Debug\1_Huchani_HolaNombre.exe
+C:\Users\alumno.ET37\Documents\huchani24\etapa0\1_Huchani_HolaNombre\1_Huchani_HolaNombre\obj\Debug\1_Huchani_HolaNombre.pdb

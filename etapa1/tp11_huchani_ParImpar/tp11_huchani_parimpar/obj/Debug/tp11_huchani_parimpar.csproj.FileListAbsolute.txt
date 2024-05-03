@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp11_huchani_parimpar\tp11_huchani_parimpar\bin\Debug\tp11_huchani_parimpar.exe.config
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp11_huchani_parimpar\tp11_huchani_parimpar\bin\Debug\tp11_huchani_parimpar.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp11_huchani_parimpar\tp11_huchani_parimpar\bin\Debug\tp11_huchani_parimpar.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp11_huchani_parimpar\tp11_huchani_parimpar\obj\Debug\tp11_huchani_parimpar.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp11_huchani_parimpar\tp11_huchani_parimpar\obj\Debug\tp11_huchani_parimpar.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp11_huchani_parimpar\tp11_huchani_parimpar\obj\Debug\tp11_huchani_parimpar.pdb

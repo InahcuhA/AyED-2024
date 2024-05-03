@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp8_huchani_albert\tp8_huchani_albert\bin\Debug\tp8_huchani_albert.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp8_huchani_albert\tp8_huchani_albert\bin\Debug\tp8_huchani_albert.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp8_huchani_albert\tp8_huchani_albert\bin\Debug\tp8_huchani_albert.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp8_huchani_albert\tp8_huchani_albert\obj\Debug\tp8_huchani_albert.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp8_huchani_albert\tp8_huchani_albert\obj\Debug\tp8_huchani_albert.pdb

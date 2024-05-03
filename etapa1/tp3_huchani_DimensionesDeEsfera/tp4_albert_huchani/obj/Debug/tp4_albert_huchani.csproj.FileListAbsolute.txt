@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp4_albert_huchani\tp4_albert_huchani\bin\Debug\tp4_albert_huchani.exe.config
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp4_albert_huchani\tp4_albert_huchani\bin\Debug\tp4_albert_huchani.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp4_albert_huchani\tp4_albert_huchani\bin\Debug\tp4_albert_huchani.pdb
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp4_albert_huchani\tp4_albert_huchani\obj\Debug\tp4_albert_huchani.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp4_albert_huchani\tp4_albert_huchani\obj\Debug\tp4_albert_huchani.exe
+C:\Users\alumno.ET37\Documents\Nueva carpeta\etapa1\tp4_albert_huchani\tp4_albert_huchani\obj\Debug\tp4_albert_huchani.pdb

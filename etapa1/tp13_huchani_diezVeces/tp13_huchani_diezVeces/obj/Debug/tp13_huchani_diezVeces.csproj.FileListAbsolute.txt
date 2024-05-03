@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp13_huchani_diezVeces\tp13_huchani_diezVeces\bin\Debug\tp13_huchani_diezVeces.exe.config
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp13_huchani_diezVeces\tp13_huchani_diezVeces\bin\Debug\tp13_huchani_diezVeces.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp13_huchani_diezVeces\tp13_huchani_diezVeces\bin\Debug\tp13_huchani_diezVeces.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp13_huchani_diezVeces\tp13_huchani_diezVeces\obj\Debug\tp13_huchani_diezVeces.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp13_huchani_diezVeces\tp13_huchani_diezVeces\obj\Debug\tp13_huchani_diezVeces.pdb

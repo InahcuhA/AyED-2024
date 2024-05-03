@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp14_huchani_cumplidos\tp14_huchani_cumplidos\bin\Debug\tp14_huchani_cumplidos.exe.config
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp14_huchani_cumplidos\tp14_huchani_cumplidos\bin\Debug\tp14_huchani_cumplidos.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp14_huchani_cumplidos\tp14_huchani_cumplidos\bin\Debug\tp14_huchani_cumplidos.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp14_huchani_cumplidos\tp14_huchani_cumplidos\obj\Debug\tp14_huchani_cumplidos.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp14_huchani_cumplidos\tp14_huchani_cumplidos\obj\Debug\tp14_huchani_cumplidos.pdb

@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp1_albert_huchani\tp1_albert_huchani\bin\Debug\tp1_albert_huchani.exe.config
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp1_albert_huchani\tp1_albert_huchani\bin\Debug\tp1_albert_huchani.exe
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp1_albert_huchani\tp1_albert_huchani\bin\Debug\tp1_albert_huchani.pdb
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp1_albert_huchani\tp1_albert_huchani\obj\Debug\tp1_albert_huchani.exe
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp1_albert_huchani\tp1_albert_huchani\obj\Debug\tp1_albert_huchani.pdb

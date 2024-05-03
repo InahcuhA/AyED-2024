@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp16_huchani_FizzBuzz\tp16_huchani_FizzBuzz\bin\Debug\tp16_huchani_FizzBuzz.exe.config
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp16_huchani_FizzBuzz\tp16_huchani_FizzBuzz\bin\Debug\tp16_huchani_FizzBuzz.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp16_huchani_FizzBuzz\tp16_huchani_FizzBuzz\bin\Debug\tp16_huchani_FizzBuzz.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp16_huchani_FizzBuzz\tp16_huchani_FizzBuzz\obj\Debug\tp16_huchani_FizzBuzz.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp16_huchani_FizzBuzz\tp16_huchani_FizzBuzz\obj\Debug\tp16_huchani_FizzBuzz.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp16_huchani_FizzBuzz\tp16_huchani_FizzBuzz\obj\Debug\tp16_huchani_FizzBuzz.csprojResolveAssemblyReference.cache

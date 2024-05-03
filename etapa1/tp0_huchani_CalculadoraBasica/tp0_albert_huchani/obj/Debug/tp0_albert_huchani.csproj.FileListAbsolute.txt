@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp0_albert_huchani\tp0_albert_huchani\bin\Debug\tp0_albert_huchani.exe.config
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp0_albert_huchani\tp0_albert_huchani\obj\Debug\tp0_albert_huchani.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp0_albert_huchani\tp0_albert_huchani\bin\Debug\tp0_albert_huchani.exe
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp0_albert_huchani\tp0_albert_huchani\bin\Debug\tp0_albert_huchani.pdb
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp0_albert_huchani\tp0_albert_huchani\obj\Debug\tp0_albert_huchani.exe
+C:\Users\alumno.ET37\Documents\ALBERT\estapa1\tp0_albert_huchani\tp0_albert_huchani\obj\Debug\tp0_albert_huchani.pdb

@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp17_huchani_MiPrimerMenuObjetivo\tp17_huchani_MiPrimerMenuObjetivo\bin\Debug\tp17_huchani_MiPrimerMenuObjetivo.exe.config
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp17_huchani_MiPrimerMenuObjetivo\tp17_huchani_MiPrimerMenuObjetivo\bin\Debug\tp17_huchani_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp17_huchani_MiPrimerMenuObjetivo\tp17_huchani_MiPrimerMenuObjetivo\bin\Debug\tp17_huchani_MiPrimerMenuObjetivo.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp17_huchani_MiPrimerMenuObjetivo\tp17_huchani_MiPrimerMenuObjetivo\obj\Debug\tp17_huchani_MiPrimerMenuObjetivo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp17_huchani_MiPrimerMenuObjetivo\tp17_huchani_MiPrimerMenuObjetivo\obj\Debug\tp17_huchani_MiPrimerMenuObjetivo.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp17_huchani_MiPrimerMenuObjetivo\tp17_huchani_MiPrimerMenuObjetivo\obj\Debug\tp17_huchani_MiPrimerMenuObjetivo.pdb

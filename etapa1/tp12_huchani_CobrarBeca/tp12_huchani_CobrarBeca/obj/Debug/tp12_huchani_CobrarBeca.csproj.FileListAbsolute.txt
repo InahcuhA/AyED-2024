@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp12_huchani_CobrarBeca\tp12_huchani_CobrarBeca\bin\Debug\tp12_huchani_CobrarBeca.exe.config
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp12_huchani_CobrarBeca\tp12_huchani_CobrarBeca\bin\Debug\tp12_huchani_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp12_huchani_CobrarBeca\tp12_huchani_CobrarBeca\bin\Debug\tp12_huchani_CobrarBeca.pdb
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp12_huchani_CobrarBeca\tp12_huchani_CobrarBeca\obj\Debug\tp12_huchani_CobrarBeca.exe
+C:\Users\alumno.ET37\Documents\albert\etapa1\tp12_huchani_CobrarBeca\tp12_huchani_CobrarBeca\obj\Debug\tp12_huchani_CobrarBeca.pdb

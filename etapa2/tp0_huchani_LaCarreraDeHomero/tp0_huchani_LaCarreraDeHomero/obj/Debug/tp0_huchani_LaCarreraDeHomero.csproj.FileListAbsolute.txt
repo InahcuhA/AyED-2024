@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert\tp0_huchani_LaCarreraDeHomero\tp0_huchani_LaCarreraDeHomero\bin\Debug\tp0_huchani_LaCarreraDeHomero.exe.config
+C:\Users\alumno.ET37\Documents\albert\tp0_huchani_LaCarreraDeHomero\tp0_huchani_LaCarreraDeHomero\bin\Debug\tp0_huchani_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Documents\albert\tp0_huchani_LaCarreraDeHomero\tp0_huchani_LaCarreraDeHomero\bin\Debug\tp0_huchani_LaCarreraDeHomero.pdb
+C:\Users\alumno.ET37\Documents\albert\tp0_huchani_LaCarreraDeHomero\tp0_huchani_LaCarreraDeHomero\obj\Debug\tp0_huchani_LaCarreraDeHomero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\albert\tp0_huchani_LaCarreraDeHomero\tp0_huchani_LaCarreraDeHomero\obj\Debug\tp0_huchani_LaCarreraDeHomero.exe
+C:\Users\alumno.ET37\Documents\albert\tp0_huchani_LaCarreraDeHomero\tp0_huchani_LaCarreraDeHomero\obj\Debug\tp0_huchani_LaCarreraDeHomero.pdb

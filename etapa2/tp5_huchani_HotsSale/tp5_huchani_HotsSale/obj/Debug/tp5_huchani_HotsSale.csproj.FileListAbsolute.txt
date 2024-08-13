@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert2.01234\tp5_huchani_HotsSale\tp5_huchani_HotsSale\bin\Debug\tp5_huchani_HotsSale.exe.config
+C:\Users\alumno.ET37\Documents\albert2.01234\tp5_huchani_HotsSale\tp5_huchani_HotsSale\bin\Debug\tp5_huchani_HotsSale.exe
+C:\Users\alumno.ET37\Documents\albert2.01234\tp5_huchani_HotsSale\tp5_huchani_HotsSale\bin\Debug\tp5_huchani_HotsSale.pdb
+C:\Users\alumno.ET37\Documents\albert2.01234\tp5_huchani_HotsSale\tp5_huchani_HotsSale\obj\Debug\tp5_huchani_HotsSale.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\albert2.01234\tp5_huchani_HotsSale\tp5_huchani_HotsSale\obj\Debug\tp5_huchani_HotsSale.exe
+C:\Users\alumno.ET37\Documents\albert2.01234\tp5_huchani_HotsSale\tp5_huchani_HotsSale\obj\Debug\tp5_huchani_HotsSale.pdb

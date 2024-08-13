@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa2.02\tp2_huchani_ElRayoCarreraVeloz\tp2_huchani_ElRayoCarreraVeloz\bin\Debug\tp2_huchani_ElRayoCarreraVeloz.exe.config
+C:\Users\alumno.ET37\Documents\etapa2.02\tp2_huchani_ElRayoCarreraVeloz\tp2_huchani_ElRayoCarreraVeloz\bin\Debug\tp2_huchani_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Documents\etapa2.02\tp2_huchani_ElRayoCarreraVeloz\tp2_huchani_ElRayoCarreraVeloz\bin\Debug\tp2_huchani_ElRayoCarreraVeloz.pdb
+C:\Users\alumno.ET37\Documents\etapa2.02\tp2_huchani_ElRayoCarreraVeloz\tp2_huchani_ElRayoCarreraVeloz\obj\Debug\tp2_huchani_ElRayoCarreraVeloz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa2.02\tp2_huchani_ElRayoCarreraVeloz\tp2_huchani_ElRayoCarreraVeloz\obj\Debug\tp2_huchani_ElRayoCarreraVeloz.exe
+C:\Users\alumno.ET37\Documents\etapa2.02\tp2_huchani_ElRayoCarreraVeloz\tp2_huchani_ElRayoCarreraVeloz\obj\Debug\tp2_huchani_ElRayoCarreraVeloz.pdb

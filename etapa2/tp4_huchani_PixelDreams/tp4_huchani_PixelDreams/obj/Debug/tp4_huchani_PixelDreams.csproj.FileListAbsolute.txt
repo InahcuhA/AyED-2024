@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa2.0.23\tp4_huchani_PixelDreams\tp4_huchani_PixelDreams\bin\Debug\tp4_huchani_PixelDreams.exe.config
+C:\Users\alumno.ET37\Documents\etapa2.0.23\tp4_huchani_PixelDreams\tp4_huchani_PixelDreams\bin\Debug\tp4_huchani_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\etapa2.0.23\tp4_huchani_PixelDreams\tp4_huchani_PixelDreams\bin\Debug\tp4_huchani_PixelDreams.pdb
+C:\Users\alumno.ET37\Documents\etapa2.0.23\tp4_huchani_PixelDreams\tp4_huchani_PixelDreams\obj\Debug\tp4_huchani_PixelDreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa2.0.23\tp4_huchani_PixelDreams\tp4_huchani_PixelDreams\obj\Debug\tp4_huchani_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\etapa2.0.23\tp4_huchani_PixelDreams\tp4_huchani_PixelDreams\obj\Debug\tp4_huchani_PixelDreams.pdb

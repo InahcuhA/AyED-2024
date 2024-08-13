@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etpa2de 4,7,2024\tp8_huchani_VectorRandomSwitch\tp8_huchani_VectorRandomSwitch\bin\Debug\tp8_huchani_VectorRandomSwitch.exe.config
+C:\Users\alumno.ET37\Documents\etpa2de 4,7,2024\tp8_huchani_VectorRandomSwitch\tp8_huchani_VectorRandomSwitch\bin\Debug\tp8_huchani_VectorRandomSwitch.exe
+C:\Users\alumno.ET37\Documents\etpa2de 4,7,2024\tp8_huchani_VectorRandomSwitch\tp8_huchani_VectorRandomSwitch\bin\Debug\tp8_huchani_VectorRandomSwitch.pdb
+C:\Users\alumno.ET37\Documents\etpa2de 4,7,2024\tp8_huchani_VectorRandomSwitch\tp8_huchani_VectorRandomSwitch\obj\Debug\tp8_huchani_VectorRandomSwitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etpa2de 4,7,2024\tp8_huchani_VectorRandomSwitch\tp8_huchani_VectorRandomSwitch\obj\Debug\tp8_huchani_VectorRandomSwitch.exe
+C:\Users\alumno.ET37\Documents\etpa2de 4,7,2024\tp8_huchani_VectorRandomSwitch\tp8_huchani_VectorRandomSwitch\obj\Debug\tp8_huchani_VectorRandomSwitch.pdb

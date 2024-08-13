@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa2.0.012143234\tp7_huhcani_ContratacionSoft\tp7_huhcani_ContratacionSoft\bin\Debug\tp7_huhcani_ContratacionSoft.exe.config
+C:\Users\alumno.ET37\Documents\etapa2.0.012143234\tp7_huhcani_ContratacionSoft\tp7_huhcani_ContratacionSoft\obj\Debug\tp7_huhcani_ContratacionSoft.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa2.0.012143234\tp7_huhcani_ContratacionSoft\tp7_huhcani_ContratacionSoft\bin\Debug\tp7_huhcani_ContratacionSoft.exe
+C:\Users\alumno.ET37\Documents\etapa2.0.012143234\tp7_huhcani_ContratacionSoft\tp7_huhcani_ContratacionSoft\bin\Debug\tp7_huhcani_ContratacionSoft.pdb
+C:\Users\alumno.ET37\Documents\etapa2.0.012143234\tp7_huhcani_ContratacionSoft\tp7_huhcani_ContratacionSoft\obj\Debug\tp7_huhcani_ContratacionSoft.exe
+C:\Users\alumno.ET37\Documents\etapa2.0.012143234\tp7_huhcani_ContratacionSoft\tp7_huhcani_ContratacionSoft\obj\Debug\tp7_huhcani_ContratacionSoft.pdb

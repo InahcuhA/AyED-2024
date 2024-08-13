@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert2.01234\tp6_huchani_ZEGARPG\tp6_huchani_ZEGARPG\bin\Debug\tp6_huchani_ZEGARPG.exe.config
+C:\Users\alumno.ET37\Documents\albert2.01234\tp6_huchani_ZEGARPG\tp6_huchani_ZEGARPG\bin\Debug\tp6_huchani_ZEGARPG.exe
+C:\Users\alumno.ET37\Documents\albert2.01234\tp6_huchani_ZEGARPG\tp6_huchani_ZEGARPG\bin\Debug\tp6_huchani_ZEGARPG.pdb
+C:\Users\alumno.ET37\Documents\albert2.01234\tp6_huchani_ZEGARPG\tp6_huchani_ZEGARPG\obj\Debug\tp6_huchani_ZEGARPG.exe
+C:\Users\alumno.ET37\Documents\albert2.01234\tp6_huchani_ZEGARPG\tp6_huchani_ZEGARPG\obj\Debug\tp6_huchani_ZEGARPG.pdb
+C:\Users\alumno.ET37\Documents\albert2.01234\tp6_huchani_ZEGARPG\tp6_huchani_ZEGARPG\obj\Debug\tp6_huchani_ZEGARPG.csprojResolveAssemblyReference.cache

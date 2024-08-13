@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\albert\tp1_huhcani_LaFestaDeStitch\tp1_huhcani_LaFestaDeStitch\bin\Debug\tp1_huhcani_LaFestaDeStitch.exe.config
+C:\Users\alumno.ET37\Documents\albert\tp1_huhcani_LaFestaDeStitch\tp1_huhcani_LaFestaDeStitch\bin\Debug\tp1_huhcani_LaFestaDeStitch.exe
+C:\Users\alumno.ET37\Documents\albert\tp1_huhcani_LaFestaDeStitch\tp1_huhcani_LaFestaDeStitch\bin\Debug\tp1_huhcani_LaFestaDeStitch.pdb
+C:\Users\alumno.ET37\Documents\albert\tp1_huhcani_LaFestaDeStitch\tp1_huhcani_LaFestaDeStitch\obj\Debug\tp1_huhcani_LaFestaDeStitch.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\albert\tp1_huhcani_LaFestaDeStitch\tp1_huhcani_LaFestaDeStitch\obj\Debug\tp1_huhcani_LaFestaDeStitch.exe
+C:\Users\alumno.ET37\Documents\albert\tp1_huhcani_LaFestaDeStitch\tp1_huhcani_LaFestaDeStitch\obj\Debug\tp1_huhcani_LaFestaDeStitch.pdb

@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Documents\etapa2\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\bin\Debug\tp3_huchani_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Documents\etapa2\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\bin\Debug\tp3_huchani_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\etapa2\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\bin\Debug\tp3_huchani_VueltaAClases.pdb
+C:\Users\alumno.ET37\Documents\etapa2\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\obj\Debug\tp3_huchani_VueltaAClases.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa2\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\obj\Debug\tp3_huchani_VueltaAClases.exe
+C:\Users\alumno.ET37\Documents\etapa2\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\obj\Debug\tp3_huchani_VueltaAClases.pdb
+C:\Users\alumno.ET37\Downloads\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\bin\Debug\tp3_huchani_VueltaAClases.exe.config
+C:\Users\alumno.ET37\Downloads\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\obj\Debug\tp3_huchani_VueltaAClases.exe
+C:\Users\alumno.ET37\Downloads\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\obj\Debug\tp3_huchani_VueltaAClases.pdb
+C:\Users\alumno.ET37\Downloads\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\bin\Debug\tp3_huchani_VueltaAClases.exe
+C:\Users\alumno.ET37\Downloads\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\bin\Debug\tp3_huchani_VueltaAClases.pdb
+C:\Users\alumno.ET37\Downloads\tp3_huchani_VueltaAClases\tp3_huchani_VueltaAClases\obj\Debug\tp3_huchani_VueltaAClases.csprojResolveAssemblyReference.cache

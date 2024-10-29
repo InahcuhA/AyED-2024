@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp14_huchani_CalificacionesEstudiantiles\tp14_huchani_CalificacionesEstudiantiles\bin\Debug\tp14_huchani_CalificacionesEstudiantiles.exe.config
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp14_huchani_CalificacionesEstudiantiles\tp14_huchani_CalificacionesEstudiantiles\bin\Debug\tp14_huchani_CalificacionesEstudiantiles.exe
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp14_huchani_CalificacionesEstudiantiles\tp14_huchani_CalificacionesEstudiantiles\bin\Debug\tp14_huchani_CalificacionesEstudiantiles.pdb
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp14_huchani_CalificacionesEstudiantiles\tp14_huchani_CalificacionesEstudiantiles\obj\Debug\tp14_huchani_CalificacionesEstudiantiles.exe
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp14_huchani_CalificacionesEstudiantiles\tp14_huchani_CalificacionesEstudiantiles\obj\Debug\tp14_huchani_CalificacionesEstudiantiles.pdb
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp14_huchani_CalificacionesEstudiantiles\tp14_huchani_CalificacionesEstudiantiles\obj\Debug\tp14_huchani_CalificacionesEstudiantiles.csprojResolveAssemblyReference.cache

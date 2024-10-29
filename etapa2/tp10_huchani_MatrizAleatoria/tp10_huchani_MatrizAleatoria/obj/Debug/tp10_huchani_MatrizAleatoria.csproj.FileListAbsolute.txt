@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp10_huchani_MatrizAleatoria\tp10_huchani_MatrizAleatoria\bin\Debug\tp10_huchani_MatrizAleatoria.exe.config
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp10_huchani_MatrizAleatoria\tp10_huchani_MatrizAleatoria\bin\Debug\tp10_huchani_MatrizAleatoria.exe
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp10_huchani_MatrizAleatoria\tp10_huchani_MatrizAleatoria\bin\Debug\tp10_huchani_MatrizAleatoria.pdb
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp10_huchani_MatrizAleatoria\tp10_huchani_MatrizAleatoria\obj\Debug\tp10_huchani_MatrizAleatoria.exe
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp10_huchani_MatrizAleatoria\tp10_huchani_MatrizAleatoria\obj\Debug\tp10_huchani_MatrizAleatoria.pdb

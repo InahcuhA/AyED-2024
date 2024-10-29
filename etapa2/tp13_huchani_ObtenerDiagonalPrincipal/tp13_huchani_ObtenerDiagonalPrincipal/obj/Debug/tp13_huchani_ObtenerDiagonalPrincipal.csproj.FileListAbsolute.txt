@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp13_huchani_ObtenerDiagonalPrincipal\tp13_huchani_ObtenerDiagonalPrincipal\bin\Debug\tp13_huchani_ObtenerDiagonalPrincipal.exe.config
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp13_huchani_ObtenerDiagonalPrincipal\tp13_huchani_ObtenerDiagonalPrincipal\bin\Debug\tp13_huchani_ObtenerDiagonalPrincipal.exe
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp13_huchani_ObtenerDiagonalPrincipal\tp13_huchani_ObtenerDiagonalPrincipal\bin\Debug\tp13_huchani_ObtenerDiagonalPrincipal.pdb
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp13_huchani_ObtenerDiagonalPrincipal\tp13_huchani_ObtenerDiagonalPrincipal\obj\Debug\tp13_huchani_ObtenerDiagonalPrincipal.exe
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp13_huchani_ObtenerDiagonalPrincipal\tp13_huchani_ObtenerDiagonalPrincipal\obj\Debug\tp13_huchani_ObtenerDiagonalPrincipal.pdb
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp13_huchani_ObtenerDiagonalPrincipal\tp13_huchani_ObtenerDiagonalPrincipal\obj\Debug\tp13_huchani_ObtenerDiagonalPrincipal.csprojResolveAssemblyReference.cache

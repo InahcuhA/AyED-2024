@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp12_huchani_RotarMatriz90\tp12_huchani_RotarMatriz90\bin\Debug\tp12_huchani_RotarMatriz90.exe.config
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp12_huchani_RotarMatriz90\tp12_huchani_RotarMatriz90\bin\Debug\tp12_huchani_RotarMatriz90.exe
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp12_huchani_RotarMatriz90\tp12_huchani_RotarMatriz90\bin\Debug\tp12_huchani_RotarMatriz90.pdb
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp12_huchani_RotarMatriz90\tp12_huchani_RotarMatriz90\obj\Debug\tp12_huchani_RotarMatriz90.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp12_huchani_RotarMatriz90\tp12_huchani_RotarMatriz90\obj\Debug\tp12_huchani_RotarMatriz90.exe
+C:\Users\alumno.ET37\Documents\tps de 1.8.2024\tp12_huchani_RotarMatriz90\tp12_huchani_RotarMatriz90\obj\Debug\tp12_huchani_RotarMatriz90.pdb

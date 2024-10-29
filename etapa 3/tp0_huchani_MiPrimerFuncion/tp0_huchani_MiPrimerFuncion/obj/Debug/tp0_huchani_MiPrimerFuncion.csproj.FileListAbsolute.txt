@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa3\tp0_huchani_MiPrimerFuncion\tp0_huchani_MiPrimerFuncion\bin\Debug\tp0_huchani_MiPrimerFuncion.exe.config
+C:\Users\alumno.ET37\Documents\etapa3\tp0_huchani_MiPrimerFuncion\tp0_huchani_MiPrimerFuncion\obj\Debug\tp0_huchani_MiPrimerFuncion.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa3\tp0_huchani_MiPrimerFuncion\tp0_huchani_MiPrimerFuncion\bin\Debug\tp0_huchani_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\etapa3\tp0_huchani_MiPrimerFuncion\tp0_huchani_MiPrimerFuncion\bin\Debug\tp0_huchani_MiPrimerFuncion.pdb
+C:\Users\alumno.ET37\Documents\etapa3\tp0_huchani_MiPrimerFuncion\tp0_huchani_MiPrimerFuncion\obj\Debug\tp0_huchani_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\etapa3\tp0_huchani_MiPrimerFuncion\tp0_huchani_MiPrimerFuncion\obj\Debug\tp0_huchani_MiPrimerFuncion.pdb

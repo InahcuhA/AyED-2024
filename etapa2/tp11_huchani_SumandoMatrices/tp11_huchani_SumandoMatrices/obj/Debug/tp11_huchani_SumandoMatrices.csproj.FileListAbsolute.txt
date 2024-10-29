@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp11_huchani_SumandoMatrices\tp11_huchani_SumandoMatrices\bin\Debug\tp11_huchani_SumandoMatrices.exe.config
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp11_huchani_SumandoMatrices\tp11_huchani_SumandoMatrices\bin\Debug\tp11_huchani_SumandoMatrices.exe
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp11_huchani_SumandoMatrices\tp11_huchani_SumandoMatrices\bin\Debug\tp11_huchani_SumandoMatrices.pdb
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp11_huchani_SumandoMatrices\tp11_huchani_SumandoMatrices\obj\Debug\tp11_huchani_SumandoMatrices.exe
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp11_huchani_SumandoMatrices\tp11_huchani_SumandoMatrices\obj\Debug\tp11_huchani_SumandoMatrices.pdb

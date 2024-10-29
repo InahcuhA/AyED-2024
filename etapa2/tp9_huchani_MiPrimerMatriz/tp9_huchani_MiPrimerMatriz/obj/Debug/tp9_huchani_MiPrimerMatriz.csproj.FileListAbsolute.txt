@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp9_huchani_MiPrimerMatriz\tp9_huchani_MiPrimerMatriz\bin\Debug\tp9_huchani_MiPrimerMatriz.exe.config
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp9_huchani_MiPrimerMatriz\tp9_huchani_MiPrimerMatriz\bin\Debug\tp9_huchani_MiPrimerMatriz.exe
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp9_huchani_MiPrimerMatriz\tp9_huchani_MiPrimerMatriz\bin\Debug\tp9_huchani_MiPrimerMatriz.pdb
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp9_huchani_MiPrimerMatriz\tp9_huchani_MiPrimerMatriz\obj\Debug\tp9_huchani_MiPrimerMatriz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp9_huchani_MiPrimerMatriz\tp9_huchani_MiPrimerMatriz\obj\Debug\tp9_huchani_MiPrimerMatriz.exe
+C:\Users\alumno.ET37\Documents\etpa2.22222222222222222\tp9_huchani_MiPrimerMatriz\tp9_huchani_MiPrimerMatriz\obj\Debug\tp9_huchani_MiPrimerMatriz.pdb

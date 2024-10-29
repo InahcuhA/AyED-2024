@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa1\tp18_huchani_HastaQueSI\tp18_huchani_HastaQueSI\bin\Debug\tp18_huchani_HastaQueSI.exe.config
+C:\Users\alumno.ET37\Documents\etapa1\tp18_huchani_HastaQueSI\tp18_huchani_HastaQueSI\bin\Debug\tp18_huchani_HastaQueSI.exe
+C:\Users\alumno.ET37\Documents\etapa1\tp18_huchani_HastaQueSI\tp18_huchani_HastaQueSI\bin\Debug\tp18_huchani_HastaQueSI.pdb
+C:\Users\alumno.ET37\Documents\etapa1\tp18_huchani_HastaQueSI\tp18_huchani_HastaQueSI\obj\Debug\tp18_huchani_HastaQueSI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa1\tp18_huchani_HastaQueSI\tp18_huchani_HastaQueSI\obj\Debug\tp18_huchani_HastaQueSI.exe
+C:\Users\alumno.ET37\Documents\etapa1\tp18_huchani_HastaQueSI\tp18_huchani_HastaQueSI\obj\Debug\tp18_huchani_HastaQueSI.pdb

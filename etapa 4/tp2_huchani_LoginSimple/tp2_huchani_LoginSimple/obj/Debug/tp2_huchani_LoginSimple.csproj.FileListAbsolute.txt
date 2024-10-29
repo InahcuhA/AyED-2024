@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\bin\Debug\tp2_huchani_LoginSimple.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\bin\Debug\tp2_huchani_LoginSimple.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\bin\Debug\tp2_huchani_LoginSimple.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\obj\Debug\tp2_huchani_LoginSimple.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\obj\Debug\tp2_huchani_LoginSimple.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\obj\Debug\tp2_huchani_LoginSimple.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\obj\Debug\tp2_huchani_LoginSimple.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\obj\Debug\tp2_huchani_LoginSimple.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp2_huchani_LoginSimple\tp2_huchani_LoginSimple\obj\Debug\tp2_huchani_LoginSimple.pdb

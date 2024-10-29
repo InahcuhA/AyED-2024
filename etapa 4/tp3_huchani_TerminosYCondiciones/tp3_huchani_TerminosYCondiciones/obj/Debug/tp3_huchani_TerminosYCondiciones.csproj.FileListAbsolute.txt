@@ -1,0 +1,9 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\bin\Debug\tp3_huchani_TerminosYCondiciones.exe.config
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\bin\Debug\tp3_huchani_TerminosYCondiciones.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\bin\Debug\tp3_huchani_TerminosYCondiciones.pdb
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\obj\Debug\tp3_huchani_TerminosYCondiciones.csprojResolveAssemblyReference.cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\obj\Debug\tp3_huchani_TerminosYCondiciones.Form1.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\obj\Debug\tp3_huchani_TerminosYCondiciones.Properties.Resources.resources
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\obj\Debug\tp3_huchani_TerminosYCondiciones.csproj.GenerateResource.Cache
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\obj\Debug\tp3_huchani_TerminosYCondiciones.exe
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp3_huchani_TerminosYCondiciones\tp3_huchani_TerminosYCondiciones\obj\Debug\tp3_huchani_TerminosYCondiciones.pdb

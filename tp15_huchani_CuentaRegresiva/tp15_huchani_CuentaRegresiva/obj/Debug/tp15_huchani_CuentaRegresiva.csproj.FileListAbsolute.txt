@@ -1,5 +1,0 @@
-C:\Users\alumno.ET37\Documents\albert\etapa1\tp15_huchani_CuentaRegresiva\tp15_huchani_CuentaRegresiva\bin\Debug\tp15_huchani_CuentaRegresiva.exe.config
-C:\Users\alumno.ET37\Documents\albert\etapa1\tp15_huchani_CuentaRegresiva\tp15_huchani_CuentaRegresiva\bin\Debug\tp15_huchani_CuentaRegresiva.exe
-C:\Users\alumno.ET37\Documents\albert\etapa1\tp15_huchani_CuentaRegresiva\tp15_huchani_CuentaRegresiva\bin\Debug\tp15_huchani_CuentaRegresiva.pdb
-C:\Users\alumno.ET37\Documents\albert\etapa1\tp15_huchani_CuentaRegresiva\tp15_huchani_CuentaRegresiva\obj\Debug\tp15_huchani_CuentaRegresiva.exe
-C:\Users\alumno.ET37\Documents\albert\etapa1\tp15_huchani_CuentaRegresiva\tp15_huchani_CuentaRegresiva\obj\Debug\tp15_huchani_CuentaRegresiva.pdb

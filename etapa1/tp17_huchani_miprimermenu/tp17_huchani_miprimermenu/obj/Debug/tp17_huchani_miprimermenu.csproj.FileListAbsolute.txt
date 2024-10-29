@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa1\tp17_huchani_miprimermenu\tp17_huchani_miprimermenu\bin\Debug\tp17_huchani_miprimermenu.exe.config
+C:\Users\alumno.ET37\Documents\etapa1\tp17_huchani_miprimermenu\tp17_huchani_miprimermenu\bin\Debug\tp17_huchani_miprimermenu.exe
+C:\Users\alumno.ET37\Documents\etapa1\tp17_huchani_miprimermenu\tp17_huchani_miprimermenu\bin\Debug\tp17_huchani_miprimermenu.pdb
+C:\Users\alumno.ET37\Documents\etapa1\tp17_huchani_miprimermenu\tp17_huchani_miprimermenu\obj\Debug\tp17_huchani_miprimermenu.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa1\tp17_huchani_miprimermenu\tp17_huchani_miprimermenu\obj\Debug\tp17_huchani_miprimermenu.exe
+C:\Users\alumno.ET37\Documents\etapa1\tp17_huchani_miprimermenu\tp17_huchani_miprimermenu\obj\Debug\tp17_huchani_miprimermenu.pdb

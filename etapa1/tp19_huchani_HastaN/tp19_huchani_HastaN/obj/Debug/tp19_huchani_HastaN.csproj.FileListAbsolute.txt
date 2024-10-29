@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\etapa1\tp19_huchani_HastaN\tp19_huchani_HastaN\bin\Debug\tp19_huchani_HastaN.exe.config
+C:\Users\alumno.ET37\Documents\etapa1\tp19_huchani_HastaN\tp19_huchani_HastaN\bin\Debug\tp19_huchani_HastaN.exe
+C:\Users\alumno.ET37\Documents\etapa1\tp19_huchani_HastaN\tp19_huchani_HastaN\bin\Debug\tp19_huchani_HastaN.pdb
+C:\Users\alumno.ET37\Documents\etapa1\tp19_huchani_HastaN\tp19_huchani_HastaN\obj\Debug\tp19_huchani_HastaN.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\etapa1\tp19_huchani_HastaN\tp19_huchani_HastaN\obj\Debug\tp19_huchani_HastaN.exe
+C:\Users\alumno.ET37\Documents\etapa1\tp19_huchani_HastaN\tp19_huchani_HastaN\obj\Debug\tp19_huchani_HastaN.pdb

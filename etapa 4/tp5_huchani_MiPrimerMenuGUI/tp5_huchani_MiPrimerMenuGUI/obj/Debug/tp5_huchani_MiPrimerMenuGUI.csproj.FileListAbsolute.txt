@@ -1,0 +1,22 @@
+c:\users\alumno.et37\documents\visual studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\bin\Debug\tp5_huchani_MiPrimerMenuGUI.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\bin\Debug\tp5_huchani_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\bin\Debug\tp5_huchani_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Form3.resources
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\bin\Debug\tp5_huchani_MiPrimerMenuGUI.exe.config
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\bin\Debug\tp5_huchani_MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\bin\Debug\tp5_huchani_MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Form1.resources
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Form3.resources
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Form4.resources
+C:\Users\alumno.ET37\Downloads\tp5_huchani_MiPrimerMenuGUI\tp5_huchani_MiPrimerMenuGUI\obj\Debug\tp5_huchani_MiPrimerMenuGUI.Form5.resources
